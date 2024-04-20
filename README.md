@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
+<!---
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eklavya-eg&show_icons=true&theme=dracula" alt="Eklavya's GitHub Stats">
@@ -33,7 +34,7 @@
 <p align="center">Made with ❤️ by Eklavya</p>
 
 
-<!---
+
 - 👋 Hi, I’m @eklavya-eg
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Artificial Intelligence
