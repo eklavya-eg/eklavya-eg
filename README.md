@@ -1,11 +1,15 @@
 <h2 align="center">👋 Hello World, I'm Eklavya!</h2>
 <p align="center">
   <samp>
-    🧠 AI Enthusiast | 🌱 Machine Learning Explorer <br>
-    💻 Constantly Learning & Growing <br>
-    📧 Reach me at: emessage.eg@gmail.com <br>
+    🧠 AI Enthusiast | 🌱 Web3 Explorer <br>
+    📧 Reach me at egmm0120@gmail.com <br>
     🚀 Let's build the future together! <br>
   </samp>
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/eklavya-eg/count.svg" />
 </p>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
