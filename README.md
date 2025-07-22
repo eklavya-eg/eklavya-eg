@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello World, I'm Eklavya!</h2>
 <p align="center">
   <samp>
-    🧠 AI Enthusiast | 🌱 Web3 Explorer <br>
+    🧠 AI | 🌱 Web3 <br>
     📧 Reach me at egmm0120@gmail.com <br>
     🚀 Let's build the future together! <br>
   </samp>
